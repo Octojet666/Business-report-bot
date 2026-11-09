@@ -102,7 +102,6 @@ The generated PDF (`output/business_report.pdf`) is a clean A4 business document
 5. **Revenue by category** — category table with revenue share plus a bar chart
 6. **Business insights** — short conclusions generated from the data itself (best product, best category, best month, retained margin)
 
-Every figure is calculated from `sales.csv` at run time — change the CSV and the report changes with it.
 
 ## Sample dataset disclaimer
 
