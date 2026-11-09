@@ -1,9 +1,8 @@
-"""Business Report Bot.
+"""
 
 Reads sales.csv, calculates the key business numbers and turns them into a
 PDF report, charts and a CSV summary. Run it with:
 
-    python main.py
 """
 
 from pathlib import Path
