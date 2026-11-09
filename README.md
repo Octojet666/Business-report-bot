@@ -15,7 +15,7 @@ Business Report Bot automates that step. Drop a `sales.csv` file into the folder
 ## Features
 
 - Loads and validates `sales.csv`, reporting *every* problem found (missing file, missing columns, blank cells, bad dates, non-numeric values, negative quantities, duplicate transaction IDs) with spreadsheet-style row numbers
-- Calculates revenue, cost, profit, profit margin, transaction count, units sold, average transaction value, monthly trends, product/category rankings and best-performing month — all derived live from the data, nothing hardcoded
+- Calculates revenue, cost, profit, profit margin, transaction count, units sold, average transaction value, monthly trends, product/category rankings and best-performing month: all derived live from the data, nothing hardcoded
 - Generates a multi-page PDF report with an executive summary, KPI table, monthly analysis, top products, category breakdown, embedded charts and data-driven insights
 - Creates three charts: monthly revenue/profit trend, top products, revenue by category
 - Exports a CSV summary of the key metrics
